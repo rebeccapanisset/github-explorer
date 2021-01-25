@@ -10,6 +10,6 @@ This project was developed to learn about ReactJS, following the Rocketseat Boot
 ## How to Install and Run
 
 * `git clone https://github.com/rebeccapanisset/github-explorer.git`
-* Open the project path `cd github-explorer`
+* Open the project folder `cd github-explorer`
 * `yarn install` (to install all dependencies)
 * `yarn start` (to execute)
