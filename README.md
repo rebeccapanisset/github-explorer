@@ -1,15 +1,15 @@
 # Github Explorer
 
-Esse projeto foi realizado para o aprendizado do ReactJS, seguindo o curso do Bootcamp da Rocketseat.
+This project was developed to learn about ReactJS, following the Rocketseat Bootcamp course.
 
-## Tecnologias utilizadas
+## Used Technologies
 
 * ReactJS
 * TypeScript
 
-## Como instalar e executar
+## How to Install and Run
 
 * `git clone https://github.com/rebeccapanisset/github-explorer.git`
-* Entre na pasta do projeto `cd github-explorer`
-* `yarn install` (para instalar todas as dependências)
-* `yarn start` (para executar)
+* Open the project path `cd github-explorer`
+* `yarn install` (to install all dependencies)
+* `yarn start` (to execute)
